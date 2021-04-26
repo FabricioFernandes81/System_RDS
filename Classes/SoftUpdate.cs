@@ -46,7 +46,7 @@ namespace System_RDS
         private async void DownloadUpdate()
         {
             //Arquivo para teste 
-            string arquivoExec = "https://github.com/nicehash/NiceHashMinerLegacy/releases/download/3.0.6.5/nhm_windows_3.0.6.5.exe";
+            string arquivoExec = "https://Url.exe";
             string pastaExec = @"C:\temp\";
         //    StartTime = DateTime.Now;
         
